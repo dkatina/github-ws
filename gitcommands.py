@@ -6,3 +6,7 @@
 x = 2 + 3
 
 #git add .
+#adds all folders and files in your root directory
+
+#git commit -m "message "
+#the actualy "save"
